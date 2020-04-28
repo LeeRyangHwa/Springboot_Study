@@ -1,3 +1,5 @@
+출처: https://medium.com/devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-2-79c484fcadbe
+
 ##Controller와 RestController 차이
 전통적인 spring MVC의 컨트롤러인 @Controller와 
 Restuful 웹 서비스의 컨트롤러인 @RestController의 차이점 
@@ -23,3 +25,6 @@ Restuful 웹 서비스의 컨트롤러인 @RestController의 차이점
 - 주용도는 Json/Xml 형태로 객체 데이터를 반환하는 것  
 (VueJS + SpringBoot 프로젝트를 진행할 때 SpringBoot를 API 서버로 활욜 할 때, Android 앱 개발을 하면서 데이터를 반환할 때 사용)
 
+
+
+[]: https://medium.com/
